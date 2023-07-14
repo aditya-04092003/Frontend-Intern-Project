@@ -1,0 +1,17 @@
+.calendar-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .calendar-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .calendar-input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  

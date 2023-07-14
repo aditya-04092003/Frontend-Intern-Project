@@ -1,0 +1,29 @@
+.text-input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .text-input-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .text-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    transition: border-color 0.3s ease;
+  }
+  
+  .text-input:hover {
+    border-color: #aaa;
+  }
+  
+  .text-input:focus {
+    outline: none;
+    border-color: #555;
+    box-shadow: 0 0 5px #aaa;
+  }
+  

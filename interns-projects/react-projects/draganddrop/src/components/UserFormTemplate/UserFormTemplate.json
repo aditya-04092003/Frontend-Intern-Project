@@ -1,0 +1,478 @@
+[
+    {
+        "id": 2,
+        "title": "Section2",
+        "isDragEnabled": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 1,
+                "title": "Section1"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 1,
+                "title": "Section1"
+            }
+        ],
+        "isDropEnable": true,
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section2",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Section1",
+        "className": "outer-container section1",
+        "isDragEnabled": true,
+        "isDropEnabledAllSections": false,
+        "dragEnabledSections": [],
+        "dropEnabledSections": [
+            {
+                "id": 2,
+                "title": "Section2"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 2,
+                "title": "Section2"
+            }
+        ],
+        "isDropEnable": true,
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "2",
+                "label": "Status",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "1",
+                "sectionId": "2",
+                "label": "ShipmentType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "2",
+                "sectionId": "2",
+                "label": "TripType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "3",
+                "sectionId": "2",
+                "label": "PaymentType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "4",
+                "sectionId": "2",
+                "label": "AmendmentType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "5",
+                "sectionId": "2",
+                "label": "Office",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "6",
+                "sectionId": "2",
+                "label": "MasterShipment",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "7",
+                "sectionId": "2",
+                "label": "Incoterms",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "8",
+                "sectionId": "2",
+                "label": "Hazmat",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "9",
+                "sectionId": "2",
+                "label": "TempratureControlled",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "10",
+                "sectionId": "2",
+                "label": "InsuranceRequired",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "11",
+                "sectionId": "2",
+                "label": "BondedMove",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "12",
+                "sectionId": "2",
+                "label": "Shipmentisoverweight",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "13",
+                "sectionId": "2",
+                "label": "EquipmentType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "14",
+                "sectionId": "2",
+                "label": "Equipment#",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "15",
+                "sectionId": "2",
+                "label": "PrivateAsset",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "16",
+                "sectionId": "2",
+                "label": "Seat#",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "17",
+                "sectionId": "2",
+                "label": "PrimaryCarrier",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "18",
+                "sectionId": "2",
+                "label": "Description",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "19",
+                "sectionId": "2",
+                "label": "GoodsValue",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "20",
+                "sectionId": "2",
+                "label": "GoodsCurrency",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "21",
+                "sectionId": "2",
+                "label": "BLInstructionsStatus",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "22",
+                "sectionId": "2",
+                "label": "BillType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "23",
+                "sectionId": "2",
+                "label": "ContractNumber",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "24",
+                "sectionId": "2",
+                "label": "Shipper'sReferenceNumber",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "25",
+                "sectionId": "2",
+                "label": "CommercialInvoiceNumber",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "26",
+                "sectionId": "2",
+                "label": "Supplier",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "27",
+                "sectionId": "2",
+                "label": "MoveType",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "28",
+                "sectionId": "2",
+                "label": "ServiceList",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "29",
+                "sectionId": "2",
+                "label": "ContainerLoaded",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            },
+            {
+                "id": "30",
+                "sectionId": "2",
+                "label": "NumberOfCopies",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Section3",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 4,
+                "title": "Section5"
+            },
+            {
+                "id": 5,
+                "title": "Section5"
+            }
+        ],
+        "itemsDropEnabledSections": [],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section3",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Section4",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 4,
+                "title": "Section4"
+            },
+            {
+                "id": 5,
+                "title": "Section5"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 3,
+                "title": "Section3"
+            }
+        ],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section4",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Section5",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 3,
+                "title": "Section3"
+            },
+            {
+                "id": 4,
+                "title": "Section4"
+            }
+        ],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section5",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    }
+]

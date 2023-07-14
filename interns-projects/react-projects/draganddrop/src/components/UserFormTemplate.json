@@ -1,0 +1,178 @@
+[
+    {
+        "id": 2,
+        "title": "Section2",
+        "isDragEnabled": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 1,
+                "title": "Section1"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 1,
+                "title": "Section1"
+            }
+        ],
+        "isDropEnable": true,
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section2",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Section1",
+        "className": "outer-container section1",
+        "isDragEnabled": true,
+        "isDropEnabledAllSections": false,
+        "dragEnabledSections": [],
+        "dropEnabledSections": [
+            {
+                "id": 2,
+                "title": "Section2"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 2,
+                "title": "Section2"
+            }
+        ],
+        "isDropEnable": true,
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "2",
+                "label": "Status",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Section3",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 4,
+                "title": "Section5"
+            },
+            {
+                "id": 5,
+                "title": "Section5"
+            }
+        ],
+        "itemsDropEnabledSections": [],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section3",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Section4",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 4,
+                "title": "Section4"
+            },
+            {
+                "id": 5,
+                "title": "Section5"
+            }
+        ],
+        "itemsDropEnabledSections": [
+            {
+                "id": 3,
+                "title": "Section3"
+            }
+        ],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section4",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Section5",
+        "isDragEnabled": true,
+        "isDropEnable": true,
+        "isDropEnabledAllSections": false,
+        "dropEnabledSections": [
+            {
+                "id": 3,
+                "title": "Section3"
+            },
+            {
+                "id": 4,
+                "title": "Section4"
+            }
+        ],
+        "isitemDragEnabled": true,
+        "isitemDropEnabled": true,
+        "className": "outer-container section5",
+        "titles": [
+            {
+                "id": "0",
+                "sectionId": "1",
+                "label": "Mode",
+                "type": "String",
+                "isBold": "True",
+                "isItalic": "True",
+                "hidden": "True",
+                "validation": "email"
+            }
+        
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.column {
+    /* height: 400px; */
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.first-column {
+    background-color: #f5ffea;
+}
+
+.second-column {
+    background-color: #fffbf5;
+}
+
+.container
+{
+    margin: 10px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.outer-container {
+
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* grid-template: 100px 1fr/ 0px 1fr; */
+    box-sizing: border-box;
+    background: #fff;
+    grid-gap: 2px;
+    position: relative;
+    width: 80%;
+    margin: 30px 45px;
+    padding: 50px  20px ;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.5);
+}
+/*  */
+.item-container {
+
+    width: 100%;
+    height: 100%;
+}
+.shipment-card-div
+{
+    margin: 15px 18px;
+    padding: 20px 3px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.5);
+    min-width: 60px;
+    max-width: 220px;
+    max-height: 35px;
+    font-size: 12px;
+    position: relative;
+}
+
+.section1
+{
+    width: 650px;
+    
+}
+.section2
+{
+    width: 650px;
+
+}
+.section3
+{
+    width: 80%;
+}
+
+  .logout-btn
+  {
+    /* position: absolute; */
+    position: relative;
+    bottom: -14px;
+    left: 45%;
+  }
+  .hidden
+  {
+    display: none;
+  }

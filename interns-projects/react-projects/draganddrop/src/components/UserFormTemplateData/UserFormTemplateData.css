@@ -1,0 +1,38 @@
+/* UserFormTemplateData.css */
+
+.user-form-template-data {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .section .text-input {
+    width: 100%;
+  }
+  
+  .section .multiselect-input {
+    width: 100%;
+  }
+  
+  .section .calendar-input {
+    width: 100%;
+  }
+  
+  .empty-section-placeholder {
+    padding: 10px;
+    border: 1px dashed #ccc;
+    text-align: center;
+    font-style: italic;
+    color: #888;
+  }
+  
+  /* Additional styles as needed for specific elements */
+  
+  
